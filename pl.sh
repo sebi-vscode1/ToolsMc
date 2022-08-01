@@ -27,5 +27,7 @@ echo "10. 1.10"
 echo "11. 1.9"
 echo "12. 1.8"
 read version
-if 
+if [ $version = 1 ]
+then
+fi
 fi
